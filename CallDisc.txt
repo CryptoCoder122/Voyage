@@ -35,3 +35,9 @@ Older discussions
 
 Sham: AI
 Rahul: IOT and Trading
+
+====================================================================================================================
+01/06/2024
+
+- Thinking duration increase (ALEX H4W protocol):
+Breaking down main Question into different Questions and solving each question and taking actions.
